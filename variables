@@ -1,0 +1,27 @@
+let age = 31;
+let name = "Géry Boucquéau";
+/* let trainingAtWildSchool = false; */
+let nameOfSchool = "Wild Code School"
+typeof age; // => "numbers"
+typeof name; // => "string"
+/* typeof trainingAtWildSchool; // => "boolean" */
+typeof nameOfSchool; // => "string"
+console.log(age); // => "31"
+console.log(name); // => "Géry Boucquéau"
+/* console.log(trainingAtWildSchool); // => "false" */
+console.log(nameOfSchool); // => "Wild Code School"
+let age = age +1 ; // => "32"
+let trainingAtWildSchool = true; // => "true"
+console.log(age); // => "32"
+/* console.log(trainingAtWildSchool); "true" */
+
+let training = {
+    if training = wilder;   
+    else = true 
+}
+console.log(training); // => "false"
+let training = {
+    if training = wilder(true);
+    else = false
+}
+console.log(training); // => "true"
